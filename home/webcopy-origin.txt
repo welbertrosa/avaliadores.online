@@ -1,0 +1,220 @@
+Uri: http://cassinomilion.online/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\css
+Content Type: 
+
+Uri: http://cassinomilion.online/images/core/emoji/14.0.0/svg/2714.svg
+File Name: C:\Downloaded Web Sites\cassinomilion.online\images\core\emoji\14.0.0\svg\2714.svg
+Content Type: image/svg+xml
+
+Uri: http://cassinomilion.online/index.php/avaliador/?utm_source={{campaign.name}}&utm_medium={{ad.name}}&fbclid=IwAR01ybUU3tj9y_VSlhtQycWqxLXAvEdmr7AxTi8x8b7UoVEcTqfgxK1faw8
+File Name: C:\Downloaded Web Sites\cassinomilion.online\index.php\avaliador\index.htm
+Content Type: text/html
+
+Uri: http://cassinomilion.online/index.php/avaliador/index.htm
+File Name: C:\Downloaded Web Sites\cassinomilion.online\index.php\avaliador\index-1.htm
+Content Type: text/html
+
+Uri: http://cassinomilion.online/index.php/wp-json/oembed/1.0/embed-1?url=https:%2F%2Fceciflorencio.com.br%2Findex.php%2Favaliador%2F&format=xml
+File Name: C:\Downloaded Web Sites\cassinomilion.online\index.php\wp-json\oembed\1.0\embed-1
+Content Type: 
+
+Uri: http://cassinomilion.online/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fceciflorencio.com.br%2Findex.php%2Favaliador%2F
+File Name: C:\Downloaded Web Sites\cassinomilion.online\index.php\wp-json\oembed\1.0\embed
+Content Type: 
+
+Uri: http://cassinomilion.online/index.php/wp-json/wp/v2/pages/214
+File Name: C:\Downloaded Web Sites\cassinomilion.online\index.php\wp-json\wp\v2\pages\214
+Content Type: 
+
+Uri: http://cassinomilion.online/tr-2?id=1263587937611415&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-2
+Content Type: 
+
+Uri: http://cassinomilion.online/tr-4?id=961862081774979&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-4
+Content Type: 
+
+Uri: http://cassinomilion.online/tr-5?id=300227992654621&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-5
+Content Type: 
+
+Uri: http://cassinomilion.online/tr-6?id=1240100366654875&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-6
+Content Type: 
+
+Uri: http://cassinomilion.online/tr-7?id=210670868428102&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-7
+Content Type: 
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.1.3
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-content/themes/hello-elementor/style.min.css?ver=2.7.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/themes/hello-elementor/theme.min.css?ver=2.7.1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/05/Design-sem-nome-150x150.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\05\Design-sem-nome-150x150.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/05/Design-sem-nome-300x300.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\05\Design-sem-nome-300x300.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11281719-150x150.webp
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11281719-150x150.webp
+Content Type: image/webp
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11281719-300x300.webp
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11281719-300x300.webp
+Content Type: image/webp
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11281719-768x768.webp
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11281719-768x768.webp
+Content Type: image/webp
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11281719.webp
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11281719.webp
+Content Type: image/webp
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11509483-1024x813.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11509483-1024x813.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11509483-300x238.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11509483-300x238.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11509483-768x610.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11509483-768x610.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-content/uploads/2023/08/11509483.png
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-content\uploads\2023\08\11509483.png
+Content Type: image/png
+
+Uri: http://cassinomilion.online/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://cassinomilion.online/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://cassinomilion.online/wp-includes/js/wp-util.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\cassinomilion.online\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://curtinaz.github.io/keep-params/keep-params.js
+File Name: C:\Downloaded Web Sites\cassinomilion.online\keep-params\keep-params.js
+Content Type: application/javascript
+
+Uri: https://images.converteai.net/a567b765-7673-4630-ad81-04b5c8a4f95a/players/64ff436a7b941e0009cbf51c/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\cassinomilion.online\a567b765-7673-4630-ad81-04b5c8a4f95a\players\64ff436a7b941e0009cbf51c\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/tr?id=1041906377160963&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=869918254685344&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=990069028950781&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\cassinomilion.online\tr-3
+Content Type: text/plain
+
