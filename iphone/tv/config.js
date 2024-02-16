@@ -14,7 +14,7 @@ const config = {
   newPrice: 'R$ 97,00',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
-  banner: 'https://cdn.discordapp.com/attachments/677934587070119946/1200637715658588170/tvvvvv.png?ex=65c6e802&is=65b47302&hm=a672cd5395a073a4e829a101b3d6f1117acc20fabb8b094fa9c544cc3f1df71d&',
+  banner: '',
   anotherProduct: 'https://promoeofertasml.online/arcond'
 }
 
