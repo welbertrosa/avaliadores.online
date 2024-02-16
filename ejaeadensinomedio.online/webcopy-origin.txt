@@ -1,0 +1,296 @@
+Uri: https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\gh\davidshimjs\qrcodejs@gh-pages\qrcode.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jsbarcode@3.11.0/dist/JsBarcode.all.min.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\npm\jsbarcode@3.11.0\dist\JsBarcode.all.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\npm\slick-carousel@1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\npm\slick-carousel@1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_612826-MLA46114829750_052021-F.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_612826-MLA46114829750_052021-F.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_612826-MLA46114829750_052021-F_1024x1024.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_612826-MLA46114829750_052021-F_1024x1024.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_612826-MLA46114829750_052021-F_500x500.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_612826-MLA46114829750_052021-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_656548-MLA46114829749_052021-F.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_656548-MLA46114829749_052021-F.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_656548-MLA46114829749_052021-F_1024x1024.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_656548-MLA46114829749_052021-F_1024x1024.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_656548-MLA46114829749_052021-F_500x500.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_656548-MLA46114829749_052021-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_863080-MLA74244307697_012024-F.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_863080-MLA74244307697_012024-F.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_863080-MLA74244307697_012024-F_1024x1024.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_863080-MLA74244307697_012024-F_1024x1024.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_863080-MLA74244307697_012024-F_500x500.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_863080-MLA74244307697_012024-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_971922-MLA46114829752_052021-F.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_971922-MLA46114829752_052021-F.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_971922-MLA46114829752_052021-F_1024x1024.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_971922-MLA46114829752_052021-F_1024x1024.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_971922-MLA46114829752_052021-F_500x500.webp?v=1707832523
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_971922-MLA46114829752_052021-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_990382-MLA46114990400_052021-F.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_990382-MLA46114990400_052021-F.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_990382-MLA46114990400_052021-F_1024x1024.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_990382-MLA46114990400_052021-F_1024x1024.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/files/D_NQ_NP_2X_990382-MLA46114990400_052021-F_500x500.webp?v=1707832522
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\files\D_NQ_NP_2X_990382-MLA46114990400_052021-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/banner.jpg?v=77335067221478263541707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/catalizador.css?v=48533984014445982191707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\catalizador.css
+Content Type: text/css
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/desktop2.css?v=78927376678264432411707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\desktop2.css
+Content Type: text/css
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/equalizador.css?v=77932930545080279801707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\equalizador.css
+Content Type: text/css
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/favicon.png?v=145227305158328575881707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\favicon.png
+Content Type: image/png
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/logo.jpg?v=68538082869190534801707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/mobile.css?v=108821203244912679741707832681
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\mobile.css
+Content Type: text/css
+
+Uri: https://ejaeadensinomedio.online/cdn/shop/t/5/assets/tamanho.css?v=177359468726002113431707832682
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shop\t\5\assets\tamanho.css
+Content Type: text/css
+
+Uri: https://ejaeadensinomedio.online/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shopifycloud\shopify\assets\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+Content Type: image/gif
+
+Uri: https://ejaeadensinomedio.online/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: text/javascript
+
+Uri: https://ejaeadensinomedio.online/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\cdn\shopifycloud\shopify\assets\storefront\load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js
+Content Type: text/javascript
+
+Uri: https://ejaeadensinomedio.online/checkouts/internal/preloads.js?permanent-domain=652a2f-5.myshopify.com&locale=pt-BR
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://ejaeadensinomedio.online/products/apple-iphone-11-128-gb-preto
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\products\apple-iphone-11-128-gb-preto.html
+Content Type: text/html
+
+Uri: https://ejaeadensinomedio.online/products/apple-iphone-11-128-gb-preto.oembed
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\products\apple-iphone-11-128-gb-preto.oembed
+Content Type: application/json+oembed
+
+Uri: https://hp.mercadolibre.com/?p=ML&s=MLB&d=desktop
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\index-1.htm
+Content Type: application/json
+
+Uri: https://hp.mercadolibre.com/?p=ML&s=MLB&d=mobile
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\index.htm
+Content Type: application/json
+
+Uri: https://http2.mlstatic.com/D_NQ_749624-MLA71075230097_082023-OO.webp
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\D_NQ_749624-MLA71075230097_082023-OO.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/D_NQ_NP_695762-MLB70170610235_062023-O.webp
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\D_NQ_NP_695762-MLB70170610235_062023-O.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.5.5/mercadolibre/logo-pt__large_plus.png
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\frontend-assets\ml-web-navigation\ui-navigation\6.5.5\mercadolibre\logo-pt__large_plus.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\frontend-assets\vpp-frontend\medal.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\frontend-assets\vpp-frontend\message-positive.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/mpago.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\frontend-assets\vpp-frontend\mpago.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\frontend-assets\vpp-frontend\time-positive.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/resources/splash/force-splash-v5.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\resources\splash\force-splash-v5.js
+Content Type: application/javascript
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/hdmi.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\hdmi.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/integrated_apps.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\integrated_apps.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_type.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\resolution_type.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/screen_type.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\screen_type.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/smart.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\smart.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/television_size_v3.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\catalog-technical-specs\images\assets\vectorial\television_size_v3.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/00174300-571e-11e8-8364-bff51f08d440-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\00174300-571e-11e8-8364-bff51f08d440-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/1e7db140-6f0b-11ec-813c-8542a9aff8ea-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\1e7db140-6f0b-11ec-813c-8542a9aff8ea-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d572fb20-8da7-11ec-b5e8-23212ecb99a1-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\d572fb20-8da7-11ec-b5e8-23212ecb99a1-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ddf23a60-f3bd-11eb-a186-1134488bf456-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\ddf23a60-f3bd-11eb-a186-1134488bf456-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\storage\logos-api-admin\ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.ttf
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.ttf
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.ttf
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff2
+Content Type: font/woff2
+
+Uri: https://shop.app/checkouts/internal/preloads.js?permanent-domain=652a2f-5.myshopify.com&locale=pt-BR
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=1477274276163853&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=712471697711792&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\tr-1
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11317465540
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.mercadopago.com/v2/security.js
+File Name: C:\Downloaded Web Sites\ejaeadensinomedio.online\v2\security.js
+Content Type: application/javascript
+
