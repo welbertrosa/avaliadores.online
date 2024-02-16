@@ -6,9 +6,9 @@ const config = {
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572882225471628/tv2.webp?ex=65c6aba0&is=65b436a0&hm=c489e9be61f026b6cd715c2a06b7213feb3d2317fb89f1ba8a869734202cadfa&',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572882602967070/tv3.webp?ex=65c6aba0&is=65b436a0&hm=f2ad73460e1594fdf695eeb0a26fcd8081c3d8770c960579f8f2c1066129f6f7&',
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572883194355802/tv4.webp?ex=65c6aba0&is=65b436a0&hm=b316d255e4c96a691184f5d3ff0f4b188993ef9a4dfc9b199dc4855fb0fc3d89&'
+    'https://http2.mlstatic.com/D_NQ_NP_863080-MLA74244307697_012024-O.webp',
+    'https://http2.mlstatic.com/D_NQ_NP_971922-MLA46114829752_052021-O.webp',
+    'https://http2.mlstatic.com/D_NQ_NP_990382-MLA46114990400_052021-O.webp
   ],
   originalPrice: 'R$ 2499,90',
   newPrice: 'R$ 97,00',
