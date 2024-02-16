@@ -14,7 +14,7 @@ const config = {
   newPrice: 'R$ 97,00',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
-  banner: '',
+  banner: 'https://http2.mlstatic.com/D_NQ_NP_971922-MLA46114829752_052021-O.webp',
   anotherProduct: 'https://promoeofertasml.online/arcond'
 }
 
