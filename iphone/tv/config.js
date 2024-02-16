@@ -2,7 +2,7 @@ document.title = 'Mercado Livre Ofertas'
 
 const config = {
   title: 'Apple iPhone 11 (128 GB) - Preto',
-  buyUrl: 'https://pagarseupedido.online/checkouts/endereco_tv/',
+  buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://cdn.discordapp.com/attachments/707344457598500967/1200572881743130624/tv1.webp?ex=65c6aba0&is=65b436a0&hm=a9470b2db9b73b749084d1cb75dc50d463aa4a0775ec71b41f24d3ca5d25d43a&',
@@ -11,7 +11,7 @@ const config = {
     'https://cdn.discordapp.com/attachments/707344457598500967/1200572883194355802/tv4.webp?ex=65c6aba0&is=65b436a0&hm=b316d255e4c96a691184f5d3ff0f4b188993ef9a4dfc9b199dc4855fb0fc3d89&'
   ],
   originalPrice: 'R$ 2499,90',
-  newPrice: 'R$ 247,00',
+  newPrice: 'R$ 97,00',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
   banner: 'https://cdn.discordapp.com/attachments/677934587070119946/1200637715658588170/tvvvvv.png?ex=65c6e802&is=65b47302&hm=a672cd5395a073a4e829a101b3d6f1117acc20fabb8b094fa9c544cc3f1df71d&',
