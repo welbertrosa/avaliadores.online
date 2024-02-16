@@ -1,0 +1,296 @@
+Uri: https://cdn.discordapp.com/attachments/677934587070119946/1201591237552128132/kZlfEKz.png?ex=65ca600b&is=65b7eb0b&hm=a0ad4041581391ae3d5344ffadcc4e190126c19b9a846c2897c79215e5e3be9f&
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\attachments\677934587070119946\1201591237552128132\kZlfEKz.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/707344457598500967/1183932705877004318/D_NQ_NP_695009-MLU71735143484_092023-O.webp?ex=658a2241&is=6577ad41&hm=9ea446cb7efe8e1007b97e93a5a068910a1aa3bcb9c289877fd14f86f26cbded&
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\attachments\707344457598500967\1183932705877004318\D_NQ_NP_695009-MLU71735143484_092023-O.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/707344457598500967/1183932706262876220/D_NQ_NP_873165-MLU71735094436_092023-O.webp?ex=658a2241&is=6577ad41&hm=e11359ed6622bdbfa979d88a1980a713f790b06d8470b80599136ab2f427139c&
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\attachments\707344457598500967\1183932706262876220\D_NQ_NP_873165-MLU71735094436_092023-O.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/707344457598500967/1183932707248545842/D_NQ_NP_946218-MLU72612995503_112023-O.webp?ex=658a2241&is=6577ad41&hm=c2a028417c0d6fddd25ed1b7a7f55aacc18191ac51fed33f67593035313d5d7a&
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\attachments\707344457598500967\1183932707248545842\D_NQ_NP_946218-MLU72612995503_112023-O.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/707344457598500967/1183932707596664902/D_NQ_NP_988745-MLU71735143486_092023-O.webp?ex=658a2241&is=6577ad41&hm=21c3949ac7caae81147f1ee8d831e0fb0ed23f1663e682c1310e7f7af9120c11&
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\attachments\707344457598500967\1183932707596664902\D_NQ_NP_988745-MLU71735143486_092023-O.webp
+Content Type: image/webp
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://i.imgur.com/hVUaFms.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\hVUaFms.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/tXuWu6d.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tXuWu6d.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\index.htm
+Content Type: text/html
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/boleto.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\boleto.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/cards.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\cards.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/comments/feed.xml
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\comments\feed.xml
+Content Type: text/xml
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/debit.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\debit.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/elementor/global.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\elementor\global.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/elementor/post.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\elementor\post.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/elementor/post6.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\elementor\post6.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/elementor/post767.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\elementor\post767.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/font-awesome/all.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\font-awesome\all.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/font-awesome/awesome.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\font-awesome\awesome.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/font-awesome/shim.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\font-awesome\shim.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/font-awesome/v4.shim.js
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\font-awesome\v4.shim.js
+Content Type: application/javascript
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/happy-elementor-addons/fonts.style.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\happy-elementor-addons\fonts.style.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/hello-elementor/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\hello-elementor\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/hello-elementor/style.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/hello-elementor/theme.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/images/D_NQ_749624-MLA71075230097_082023-OO.webp
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\images\D_NQ_749624-MLA71075230097_082023-OO.webp
+Content Type: image/webp
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/images/mercado-livre-logo-0-1-2048x2048-1-e1700339348743-1024x271.png.webp
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\images\mercado-livre-logo-0-1-2048x2048-1-e1700339348743-1024x271.png.webp
+Content Type: image/webp
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/mercado credito.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\mercado credito.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/perfume.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\perfume.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/pro-elements/widget-theme-elements.min.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\pro-elements\widget-theme-elements.min.css
+Content Type: text/css
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/sales.png
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\sales.png
+Content Type: image/png
+
+Uri: https://ofertasbrasilhoje.online/tv/assets/Screenshot-at-Dec-06-16-49-21.png.webp
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\assets\Screenshot-at-Dec-06-16-49-21.png.webp
+Content Type: image/webp
+
+Uri: https://ofertasbrasilhoje.online/tv/config.js
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\tv\config.js
+Content Type: application/javascript
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/css/all.css
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\css\all.css
+Content Type: text/css
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\releases\v6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-MRQ6HZJ6PC
+File Name: C:\Downloaded Web Sites\ofertasbrasilhoje.online\gtag\js
+Content Type: application/javascript
+
