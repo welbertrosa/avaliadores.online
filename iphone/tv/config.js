@@ -1,7 +1,7 @@
 document.title = 'Mercado Livre Ofertas'
 
 const config = {
-  title: 'Smart TV 50 Polegadas 4K LG UHD ThinQ AI2',
+  title: 'Apple iPhone 11 (128 GB) - Preto',
   buyUrl: 'https://pagarseupedido.online/checkouts/endereco_tv/',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
