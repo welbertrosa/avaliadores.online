@@ -5,7 +5,7 @@ const config = {
   buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
-    'https://cdn.discordapp.com/attachments/707344457598500967/1200572881743130624/tv1.webp?ex=65c6aba0&is=65b436a0&hm=a9470b2db9b73b749084d1cb75dc50d463aa4a0775ec71b41f24d3ca5d25d43a&',
+    'https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp',
     'https://cdn.discordapp.com/attachments/707344457598500967/1200572882225471628/tv2.webp?ex=65c6aba0&is=65b436a0&hm=c489e9be61f026b6cd715c2a06b7213feb3d2317fb89f1ba8a869734202cadfa&',
     'https://cdn.discordapp.com/attachments/707344457598500967/1200572882602967070/tv3.webp?ex=65c6aba0&is=65b436a0&hm=f2ad73460e1594fdf695eeb0a26fcd8081c3d8770c960579f8f2c1066129f6f7&',
     'https://cdn.discordapp.com/attachments/707344457598500967/1200572883194355802/tv4.webp?ex=65c6aba0&is=65b436a0&hm=b316d255e4c96a691184f5d3ff0f4b188993ef9a4dfc9b199dc4855fb0fc3d89&'
