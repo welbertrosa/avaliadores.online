@@ -6,9 +6,7 @@ const config = {
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_863080-MLA74244307697_012024-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_971922-MLA46114829752_052021-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_990382-MLA46114990400_052021-O.webp'
+   
   ],
   originalPrice: 'R$ 2499,90',
   newPrice: 'R$ 97,00',
