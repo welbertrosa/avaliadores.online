@@ -5,13 +5,13 @@ const config = {
   buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
-    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
-    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
-    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
-    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233'
+    'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-1.png?v=1708982065',
+    'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-2_webp.png?v=1708982065',
+    'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-3_webp.png?v=1708982065',
+    'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-4_webp.png?v=1708982065'
   ],
-  originalPrice: 'R$ 2499,90',
-  newPrice: 'R$ 97,00',
+  originalPrice: 'R$ 299,90',
+  newPrice: 'R$ 119,90',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
   banner: 'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
