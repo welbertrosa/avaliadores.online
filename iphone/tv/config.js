@@ -1,7 +1,7 @@
 document.title = 'Mercado Livre Ofertas'
 
 const config = {
-  title: 'Apple iPhone 11 (128 GB) - Preto',
+  title: 'Mix 3 Ovos Lacta - Mais Sabor (COMPRE 1 LEVE 3)',
   buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
