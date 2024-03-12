@@ -14,7 +14,7 @@ const config = {
   newPrice: 'R$ 97,00',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
-  banner: 'https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp',
+  banner: 'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
   anotherProduct: 'https://promoeofertasml.online/arcond'
 }
 
