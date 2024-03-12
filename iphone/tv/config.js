@@ -5,10 +5,10 @@ const config = {
   buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
-    'https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_863080-MLA74244307697_012024-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_971922-MLA46114829752_052021-O.webp',
-    'https://http2.mlstatic.com/D_NQ_NP_990382-MLA46114990400_052021-O.webp'
+    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
+    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
+    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
+    'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233'
   ],
   originalPrice: 'R$ 2499,90',
   newPrice: 'R$ 97,00',
