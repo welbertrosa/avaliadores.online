@@ -2,7 +2,7 @@ document.title = 'Mercado Livre Ofertas'
 
 const config = {
   title: 'Mix 3 Ovos Lacta - Mais Sabor (COMPRE 1 LEVE 3)',
-  buyUrl: 'https://mercadopago-2.finalizarcompra.com/r/X21F7G714hJg28NAp6',
+  buyUrl: 'https://vitrini-ofertas.finalizarcompra.com/r/G6m67yn89ks1zO64sFC',
   // buyUrl: 'https://checkout.pagarsuacobranca.online/checkout/?checkoutName=televisao',
   images: [
     'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-1.png?v=1708982065',
