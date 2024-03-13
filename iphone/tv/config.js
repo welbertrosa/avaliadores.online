@@ -11,7 +11,7 @@ const config = {
     'https://cdn.shopify.com/s/files/1/0840/3514/1930/files/CRS-4_webp.png?v=1708982065'
   ],
   originalPrice: 'R$ 299,90',
-  newPrice: 'R$ 119,90',
+  newPrice: 'R$ 99,90',
   discount: '90%',
   portion: '6x R$ 39,98 sem juros',
   banner: 'https://cdn.shopify.com/s/files/1/0791/7695/8225/files/SHOPEE_KIT_OVOS_DE_PASCOA_LP.png?v=1709085233',
